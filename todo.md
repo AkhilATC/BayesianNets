@@ -17,3 +17,10 @@ Level 4
 
 Neuro-Symbolic Dialogue Agent
 (Bayes + LLM + policy learning)
+
+
+Softmax classifier
+
+LLM router
+
+Bayesian CPD table
